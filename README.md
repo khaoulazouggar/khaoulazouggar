@@ -17,7 +17,7 @@
 
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
  
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=kzouggar)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&login=kzouggar)](https://github.com/mohouyizme/1337-readme)
 
 <!--[![khaoulazouggar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khaoulazouggar)](https://github.com/khaoulazouggar/github-readme-stats)-->
 ![khaoulazouggar's github stats](https://github-readme-stats.vercel.app/api?username=khaoulazouggar&show_icons=true&theme=merko )
