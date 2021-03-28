@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&login=kzouggar)](https://github.com/mohouyizme/1337-readme)
+![khaoulazouggar's github stats](https://github-readme-stats.vercel.app/api?username=khaoulazouggar&show_icons=true&theme=merko )
 <!--
 **khaoulazouggar/khaoulazouggar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
