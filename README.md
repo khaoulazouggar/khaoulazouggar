@@ -11,21 +11,21 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
-  <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=material-ui&logoColor=white"/>
+  <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
+  <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=flat-square&logo=Medium&logoColor=white"/>
+  <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=flat-square&logo=Udemy&logoColor=white"/>
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white">
+  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
 
