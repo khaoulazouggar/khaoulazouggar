@@ -44,6 +44,7 @@
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/khaoulazouggar?style=social)](https://twitter.com/khaoulazouggar)
 
 [![GitHub khaoulazouggar](https://img.shields.io/github/followers/khaoulazouggar?label=follow&style=social)](https://github.com/khaoulazouggar)
+
 [![Linkedin: imthepk](https://img.shields.io/badge/-khaoulazouggar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaoula-zouggar-144ba5173/)](https://www.linkedin.com/in/khaoula-zouggar-144ba5173/)
 
 
