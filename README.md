@@ -37,7 +37,6 @@
 <!--[![khaoulazouggar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khaoulazouggar)](https://github.com/khaoulazouggar/github-readme-stats)-->
 ![khaoulazouggar's github stats](https://github-readme-stats.vercel.app/api?username=khaoulazouggar&show_icons=true&theme=merko )
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoulazouggar&layout=compact&theme=merko)](https://github.com/khaoulazouggar/github-readme-stats)
 
 
