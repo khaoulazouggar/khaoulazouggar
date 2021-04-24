@@ -16,7 +16,10 @@
   <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
   <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=material-ui&logoColor=white"/>
+  <img alt="Ant-Design" src="https://img.shields.io/badge/-AntDesign-%230170FE?&style=flat-square&logo=ant-design&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white"/>
   <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
   <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=flat-square&logo=Medium&logoColor=white"/>
