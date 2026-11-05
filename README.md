@@ -3,7 +3,7 @@
 **Full Stack Developer** at [Casbah](https://github.com/casbah-ma), building web platforms, mobile apps and design systems end to end.
 I take products from a client brief to production, often as the sole engineer. 1337 / 42 Network alumna.
 
-🌐 [kzouggar.me](https://kzouggar.me) · 💼 [LinkedIn](https://www.linkedin.com/in/khaoula-zouggar-144ba5173/) · ✉️ khaoulazouggar@gmail.com
+🌐 [kzouggar.me](https://kzouggar.me) · 💼 [LinkedIn](https://www.linkedin.com/in/kzouggar/) · ✉️ khaoulazouggar@gmail.com
 
 ---
 
