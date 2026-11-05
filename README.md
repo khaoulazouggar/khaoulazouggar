@@ -9,7 +9,7 @@ I take products from a client brief to production, often as the sole engineer. 1
 
 ### 🛠️ What I've built
 
-- **Trippp Ops** — white-label traveler app and operations platform: trip programs, bookings, documents, commissions, broadcast messaging and per-trip branding. Built solo, brief to production.
+- **Trippp Ops** — white-label, multi-tenant travel operations platform. One connected product model powers four layers: Super Admin, Tenant Admin, Trip Manager and Traveler, covering trip programs, bookings, documents, commissions, broadcast messaging and per-trip branding. Built solo, brief to production.
 - **Lumi RFP** — a request-for-proposal platform that helps teams turn client briefs into delivered proposals.
 - **Hotel UI** — a reusable component library (Next.js + Storybook) powering 20+ hotel brands.
 - **Kafaa** — certification platform that recognizes skills tourism professionals gained through experience. Co-developed in a team of two.
