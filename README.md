@@ -1,77 +1,79 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm khaoula, Full-stack developer, and 👩‍💻 student at 1337 Coding school
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
-  <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
-  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white"/>
-  <img alt="Angular.js" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white"/>
+# Hi, I'm Khaoula 👋
 
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=material-ui&logoColor=white"/>
-  <img alt="Ant-Design" src="https://img.shields.io/badge/-AntDesign-%230170FE?&style=flat-square&logo=ant-design&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white"/>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
-  <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=flat-square&logo=Medium&logoColor=white"/>
-  <img alt="Udemy" src="https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=flat-square&logo=Udemy&logoColor=white"/>
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>
-  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
-  
+**Full Stack Developer** at [Casbah](https://github.com/casbah-ma), building web platforms, mobile apps and design systems end to end.
+I take products from a client brief to production, often as the sole engineer. 1337 / 42 Network alumna.
+
+🌐 [kzouggar.me](https://kzouggar.me) · 💼 [LinkedIn](https://www.linkedin.com/in/khaoula-zouggar-144ba5173/) · ✉️ khaoulazouggar@gmail.com
+
+---
+
+### 🛠️ What I've built
+
+- **Trippp Ops** — white-label traveler app and operations platform: trip programs, bookings, documents, commissions, broadcast messaging and per-trip branding. Built solo, brief to production.
+- **Lumi RFP** — a request-for-proposal platform that helps teams turn client briefs into delivered proposals.
+- **Hotel UI** — a reusable component library (Next.js + Storybook) powering 20+ hotel brands.
+- **Kafaa** — certification platform that recognizes skills tourism professionals gained through experience. Co-developed in a team of two.
+- **CNT Academy** — collaborative online training platform, plus its React Native / Expo mobile app.
+- **Regional tourism sites & apps** — Visit Béni Mellal-Khénifra (web + mobile app), Visit Drâa-Tafilalet, Visit Fès-Meknès.
+
+---
+
+### 🧰 Tech stack
+
+**Frontend**
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white">
-  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" />
+  <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
+  <img alt="GSAP" src="https://img.shields.io/badge/-GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black" />
 </p>
 
+**Backend & Data**
 
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img alt="Drizzle ORM" src="https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+</p>
 
-- 👩‍💻 Student at  [1337 School](https://1337.ma)
- 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&login=kzouggar)](https://github.com/mohouyizme/1337-readme)
+**Mobile**
 
-<!--[![khaoulazouggar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khaoulazouggar)](https://github.com/khaoulazouggar/github-readme-stats)-->
-![khaoulazouggar's github stats](https://github-readme-stats.vercel.app/api?username=khaoulazouggar&show_icons=true&theme=merko )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoulazouggar&layout=compact&theme=merko)](https://github.com/khaoulazouggar/github-readme-stats)
+<p>
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
+</p>
 
+**Tools & Delivery**
 
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
 
+---
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/khaoulazouggar?style=social)](https://twitter.com/khaoulazouggar)
+### 🎓 Certifications
 
-[![GitHub khaoulazouggar](https://img.shields.io/github/followers/khaoulazouggar?label=follow&style=social)](https://github.com/khaoulazouggar)
+- Adobe Certified Professional — Adobe Commerce Developer
+- Flutter Certified Application Developer — Android ATC
 
-[![Linkedin: imthepk](https://img.shields.io/badge/-khaoulazouggar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaoula-zouggar-144ba5173/)](https://www.linkedin.com/in/khaoula-zouggar-144ba5173/)
+---
 
-
-
-<!--
-**khaoulazouggar/khaoulazouggar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently I’m currently studying at on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Open to full-stack opportunities. Feel free to reach out!
